@@ -1,0 +1,35 @@
+
+/* --------Game-1------- */
+.title{
+    text-align: center;
+    color:coral ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#RPS{
+    border: 10px double black;
+    margin: auto;
+    width: 40%;
+    padding: 15px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.rpsButton{
+    border: 5px solid red;
+    border-block-color: blue;
+    margin: auto;
+    width: 18%;
+    padding: 10px;
+}
+
+footer{
+    
+    text-align: end ;
+    color:darkorange ;
+    font-size: small;
+    font-weight: 1000;
+    font-family:'Courier New', Courier, monospace;
+}
+
